@@ -1,2 +1,2 @@
-# Mon_premier_projet
+# supervised-learning-mnst
 Apprentissage supervisé détéction de chiffre
