@@ -55,8 +55,8 @@ optimizer = optim.SGD(model.parameters(), lr=0.01) # L'algorithme qui ajuste les
 print("\nDébut de l'entraînement...")
 model.train()
 
-# On fait passer toutes les données 3 fois (3 époques)
-for epoch in range(1, 4):
+# epochs ici 10
+for epoch in range(1, 11):
     for batch_idx, (data, target) in enumerate(train_loader):
         data, target = data.to(device), target.to(device)
 
