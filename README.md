@@ -1,2 +1,2 @@
-# Supervised-learning-mnst
+# Supervised-learning-mnist
 Apprentissage supervisé détéction de chiffre
